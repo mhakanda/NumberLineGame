@@ -1,0 +1,11 @@
+repeat 2 random
+instruction 8.png
+left cylinder 130 222
+right circle 123 70
+center symbol 2
+response write 1 'It is two'
+instruction 5.png
+left symbol 130 222
+right circle 123 70
+center symbol 2
+response write 1 'It is three'

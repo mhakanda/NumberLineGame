@@ -1,0 +1,14 @@
+repeat 2 random
+left line 130 222
+right array 33 5
+center symbol 2
+response write 1 How are you?
+instruction 1.png
+left symbol 13 22
+right array 33 5
+center symbol 2
+response write 0
+left symbol 13 22
+right circle 133 25
+center symbol 2
+response write 1
